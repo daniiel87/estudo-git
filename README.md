@@ -1,4 +1,4 @@
-# estudo-git
+# Estudo-git
 
 Repositório para estudo de git/github.
 
